@@ -27,7 +27,14 @@ $line-height-base: 1.7;
 // Navbar
 $navbar-nav-link-padding-x: 0.8rem;
 $navbar-padding-y: 1rem;
-$navbar-dark-color: #fff;
+
+//navlink
+$nav-link-color: #D68C8F; // Rose Quartz (or any color you prefer)
+
+.nav-link {
+    color: $nav-link-color;
+}
+
 
 // Buttons
 $button-radius: 50px;
